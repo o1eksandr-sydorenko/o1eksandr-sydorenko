@@ -4,8 +4,19 @@ Hi 👋 My name is Oleksandr
 Senior Software Engineer
 ------------------------
 
-Senior Software Engineer with practical experience in Software Development and System Architecture.<br>
-Throughout my career in IT, I have contributed to the development of high-load marketplaces with more than 1 million users, gained practical experience in developing a SaaS platform for providing accessibility services, and acquired expertise in different domains such as healthcare, cryptocurrency, CRM, etc. Key Achievements: - Improved the auto-moderation process efficiency by 57% with the integration of OpenAI in a high-load marketplace utilizing a microservices architecture. - Boosted user purchasing satisfaction by 84%, thanks to seamless integration of new payment systems within our platform. - Implemented a system event tracker linked to Big Data, enabling the construction of an insightful statistical dashboard, resulting in enhanced decision-making capabilities. - Introduced a notifications infrastructure that delivers real-time updates across multiple platforms such as Slack, SMS, and email, increasing operational responsiveness by 62%. - Spearheaded the development and successful launch of a Software-as-a-Service (SaaS) platform for accessibility services, streamlining client access to these essential offerings. Expertise: - Software Development & System Architecture: Proficient in designing scalable, high-availability system architectures using TypeScript, NestJS, PHP, Laravel, and adhering to best practices in code quality, security, and maintainability. - Performance Optimization: Expert in analyzing and optimizing system performance. - Cross-Domain Solutions: Experienced in adapting to various technology environments, including healthcare, cryptocurrency, CRM, etc. - Continuous Learning & Innovation: Committed to regularly implementing the latest trends and tools in software development.
+Senior Software Engineer with practical experience in Software Development and System Architecture.<br><br>
+Throughout my career in IT, I have contributed to the development of high-load marketplaces with more than 1 million users, gained practical experience in developing a SaaS platform for providing accessibility services, and acquired expertise in different domains such as healthcare, cryptocurrency, CRM, etc.<br><br>
+Key Achievements:<br>
+- Improved the auto-moderation process efficiency by 57% with the integration of OpenAI in a high-load marketplace utilizing a microservices architecture.<br>
+- Boosted user purchasing satisfaction by 84%, thanks to seamless integration of new payment systems within our platform.<br>
+- Implemented a system event tracker linked to Big Data, enabling the construction of an insightful statistical dashboard, resulting in enhanced decision-making capabilities.<br>
+- Introduced a notifications infrastructure that delivers real-time updates across multiple platforms such as Slack, SMS, and email, increasing operational responsiveness by 62%.<br>
+- Spearheaded the development and successful launch of a Software-as-a-Service (SaaS) platform for accessibility services, streamlining client access to these essential offerings.<br><br>
+Expertise:<br>
+- Software Development & System Architecture: Proficient in designing scalable, high-availability system architectures using TypeScript, NestJS, PHP, Laravel, and adhering to best practices in code quality, security, and maintainability.<br>
+- Performance Optimization: Expert in analyzing and optimizing system performance.<br>
+- Cross-Domain Solutions: Experienced in adapting to various technology environments, including healthcare, cryptocurrency, CRM, etc.<br>
+- Continuous Learning & Innovation: Committed to regularly implementing the latest trends and tools in software development.
 
 * 🌍  I'm based in Dnipro
 * ✉️  You can contact me at [o.sydorenko.work@gmail.com](mailto:o.sydorenko.work@gmail.com)

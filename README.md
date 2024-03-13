@@ -6,12 +6,14 @@ Senior Software Engineer
 
 Senior Software Engineer with practical experience in Software Development and System Architecture.<br><br>
 Throughout my career in IT, I have contributed to the development of high-load marketplaces with more than 1 million users, gained practical experience in developing a SaaS platform for providing accessibility services, and acquired expertise in different domains such as healthcare, cryptocurrency, CRM, etc.<br><br>
+
 Key Achievements:<br>
 - Improved the auto-moderation process efficiency by 57% with the integration of OpenAI in a high-load marketplace utilizing a microservices architecture.<br>
 - Boosted user purchasing satisfaction by 84%, thanks to seamless integration of new payment systems within our platform.<br>
 - Implemented a system event tracker linked to Big Data, enabling the construction of an insightful statistical dashboard, resulting in enhanced decision-making capabilities.<br>
 - Introduced a notifications infrastructure that delivers real-time updates across multiple platforms such as Slack, SMS, and email, increasing operational responsiveness by 62%.<br>
 - Spearheaded the development and successful launch of a Software-as-a-Service (SaaS) platform for accessibility services, streamlining client access to these essential offerings.<br><br>
+
 Expertise:<br>
 - Software Development & System Architecture: Proficient in designing scalable, high-availability system architectures using TypeScript, NestJS, PHP, Laravel, and adhering to best practices in code quality, security, and maintainability.<br>
 - Performance Optimization: Expert in analyzing and optimizing system performance.<br>

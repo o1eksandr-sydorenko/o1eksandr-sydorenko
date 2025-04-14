@@ -15,7 +15,7 @@ Key Achievements:<br>
 - Spearheaded the development and successful launch of a Software-as-a-Service (SaaS) platform for accessibility services, streamlining client access to these essential offerings.<br><br>
 
 Expertise:<br>
-- Software Development & System Architecture: Proficient in designing scalable, high-availability system architectures using TypeScript, NestJS, PHP, Laravel, and adhering to best practices in code quality, security, and maintainability.<br>
+- Software Development & System Architecture: Proficient in designing scalable, high-availability system architectures using TypeScript, Node.js, NestJS, Fastify, Express.js, React.js and adhering to best practices in code quality, security, and maintainability.<br>
 - Performance Optimization: Expert in analyzing and optimizing system performance.<br>
 - Cross-Domain Solutions: Experienced in adapting to various technology environments, including healthcare, cryptocurrency, CRM, etc.<br>
 - Continuous Learning & Innovation: Committed to regularly implementing the latest trends and tools in software development.
